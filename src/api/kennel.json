@@ -1,0 +1,66 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "animals": [
+    {
+      "id": 6,
+      "name": "Checkers"
+    },
+    {
+      "id": 7,
+      "name": "Lucy"
+    },
+    {
+      "id": 8,
+      "name": "DoggieDog"
+    },
+    {
+      "id": 9,
+      "name": "BowWow"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "North Nashville"
+    },
+    {
+      "id": 2,
+      "name": "South Nashville"
+    }
+  ],
+  "owners": [
+    {
+      "id": 2,
+      "name": "Hunter"
+    },
+    {
+      "id": 3,
+      "name": "Nick"
+    },
+    {
+      "id": 5,
+      "name": "BlueBoy"
+    },
+    {
+      "id": 6,
+      "name": "HatMan"
+    },
+    {
+      "id": 7,
+      "name": "RubChild"
+    }
+  ]
+}
