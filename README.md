@@ -1,3 +1,3 @@
-# Populating React componants with JSON data to bootstrap Navigation bar
+# Deleting JSON Data with fetch
 
-![alt text](NavbarGif.gif)
+![alt text](deleteGif.gif)
