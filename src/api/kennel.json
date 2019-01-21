@@ -1,13 +1,21 @@
 {
   "employees": [
     {
-      "id": 4,
-      "name": "Blaise Roberts"
-    },
-    {
       "id": 6,
       "name": "Doopdie Due"
-    }
+    },
+    {
+        "id": 7,
+        "name": "Nick Nicki"
+      },
+      {
+        "id": 8,
+        "name": "Snoope Dog"
+      },
+      {
+        "id": 9,
+        "name": "BucketMan"
+      }
   ],
   "animals": [
     {
